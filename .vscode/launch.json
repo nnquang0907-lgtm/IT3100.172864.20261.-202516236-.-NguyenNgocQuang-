@@ -2,6 +2,20 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "HelloNameDialog",
+      "request": "launch",
+      "mainClass": "Lab01.HelloNameDialog",
+      "projectName": "IT3100.172864.20261.-202516236-.-NguyenNgocQuang-_1d0e197e"
+    },
+    {
+      "type": "java",
+      "name": "FirstDialog",
+      "request": "launch",
+      "mainClass": "Lab01.FirstDialog",
+      "projectName": "IT3100.172864.20261.-202516236-.-NguyenNgocQuang-_1d0e197e"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
