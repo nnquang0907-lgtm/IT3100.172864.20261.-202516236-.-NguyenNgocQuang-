@@ -1,0 +1,2 @@
+- roundedCost = 19
+- Vì ép kiểu từ double → int sẽ bỏ phần sau dấu phẩy, không làm tròn đến số nguyên gần nhất.
