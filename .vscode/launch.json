@@ -3,6 +3,76 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SecondDegreeEquation",
+      "request": "launch",
+      "mainClass": "Lab01.SecondDegreeEquation",
+      "projectName": "IT3100.172864.20261.-202516236-.-NguyenNgocQuang-_1d0e197e"
+    },
+    {
+      "type": "java",
+      "name": "LinearSystem",
+      "request": "launch",
+      "mainClass": "Lab01.LinearSystem",
+      "projectName": "IT3100.172864.20261.-202516236-.-NguyenNgocQuang-_1d0e197e"
+    },
+    {
+      "type": "java",
+      "name": "FirstDegreeEquation",
+      "request": "launch",
+      "mainClass": "Lab01.FirstDegreeEquation",
+      "projectName": "IT3100.172864.20261.-202516236-.-NguyenNgocQuang-_1d0e197e"
+    },
+    {
+      "type": "java",
+      "name": "TwoDoubleNumbers",
+      "request": "launch",
+      "mainClass": "Lab01.TwoDoubleNumbers",
+      "projectName": "IT3100.172864.20261.-202516236-.-NguyenNgocQuang-_1d0e197e"
+    },
+    {
+      "type": "java",
+      "name": "PrintCostArray",
+      "request": "launch",
+      "mainClass": "Lab01.PrintCostArray",
+      "projectName": "IT3100.172864.20261.-202516236-.-NguyenNgocQuang-_1d0e197e"
+    },
+    {
+      "type": "java",
+      "name": "MediaTypeName",
+      "request": "launch",
+      "mainClass": "Lab01.MediaTypeName",
+      "projectName": "IT3100.172864.20261.-202516236-.-NguyenNgocQuang-_1d0e197e"
+    },
+    {
+      "type": "java",
+      "name": "MediaDiscount",
+      "request": "launch",
+      "mainClass": "Lab01.MediaDiscount",
+      "projectName": "IT3100.172864.20261.-202516236-.-NguyenNgocQuang-_1d0e197e"
+    },
+    {
+      "type": "java",
+      "name": "ShowTwoNumbers",
+      "request": "launch",
+      "mainClass": "Lab01.ShowTwoNumbers",
+      "projectName": "IT3100.172864.20261.-202516236-.-NguyenNgocQuang-_1d0e197e"
+    },
+    {
+      "type": "java",
+      "name": "HelloWorld",
+      "request": "launch",
+      "mainClass": "Lab01.HelloWorld",
+      "projectName": "IT3100.172864.20261.-202516236-.-NguyenNgocQuang-_1d0e197e"
+    },
+    {
+      "type": "java",
+      "name": "DeclareVariables",
+      "request": "launch",
+      "mainClass": "Lab01.DeclareVariables",
+      "projectName": "IT3100.172864.20261.-202516236-.-NguyenNgocQuang-_1d0e197e"
+    },
+    {
+      "type": "java",
       "name": "HelloNameDialog",
       "request": "launch",
       "mainClass": "Lab01.HelloNameDialog",
