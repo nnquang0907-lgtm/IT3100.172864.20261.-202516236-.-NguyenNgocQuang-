@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "GetNumberOfDays",
+      "request": "launch",
+      "mainClass": "Lab02.GetNumberOfDays",
+      "projectName": "IT3100.172864.20261.-202516236-.-NguyenNgocQuang-_1d0e197e"
+    },
+    {
+      "type": "java",
+      "name": "StarTriangle",
+      "request": "launch",
+      "mainClass": "Lab02.StarTriangle",
+      "projectName": "IT3100.172864.20261.-202516236-.-NguyenNgocQuang-_1d0e197e"
+    },
+    {
+      "type": "java",
       "name": "InputFromKeyboard",
       "request": "launch",
       "mainClass": "Lab02.InputFromKeyboard",
