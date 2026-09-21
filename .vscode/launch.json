@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ChoosingOption",
+      "request": "launch",
+      "mainClass": "Lab02.screenshots.ChoosingOption",
+      "projectName": "IT3100.172864.20261.-202516236-.-NguyenNgocQuang-_1d0e197e"
+    },
+    {
+      "type": "java",
       "name": "SecondDegreeEquation",
       "request": "launch",
       "mainClass": "Lab01.SecondDegreeEquation",
