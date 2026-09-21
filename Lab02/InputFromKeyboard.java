@@ -1,7 +1,8 @@
-package Lab02.screenshots;
+package Lab02;
+
 import java.util.Scanner;
 
-public class ChoosingOption {
+public class InputFromKeyboard {
     public static void main(String[] args) {
         Scanner keyboard = new Scanner(System.in);
         System.out.println("What's your name?");
