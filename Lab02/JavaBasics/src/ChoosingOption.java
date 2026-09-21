@@ -1,4 +1,4 @@
-package Lab02;
+package Lab02.JavaBasics.src;
 import javax.swing.JOptionPane;
 
 public class ChoosingOption {
