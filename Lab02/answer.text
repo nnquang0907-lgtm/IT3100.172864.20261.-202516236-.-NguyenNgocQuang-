@@ -1,0 +1,4 @@
+1.Nếu người dùng chọn Cancel, biến option sẽ nhận giá trị JOptionPane.CANCEL_OPTION. 
+Tuy nhiên, trong code hiện tại, mọi lựa chọn khác Yes đều được xem là No, nên Cancel cũng sẽ hiển thị là No.
+
+2.Để chỉ hiển thị hai lựa chọn Yes và No, ta sử dụng JOptionPane.YES_NO_OPTION khi gọi showConfirmDialog().
