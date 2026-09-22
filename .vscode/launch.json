@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SortCostArray",
+      "request": "launch",
+      "mainClass": "Lab02.SortCostArray",
+      "projectName": "IT3100.172864.20261.-202516236-.-NguyenNgocQuang-_1d0e197e"
+    },
+    {
+      "type": "java",
       "name": "DaysOfMonth",
       "request": "launch",
       "mainClass": "Lab02.DaysOfMonth",
