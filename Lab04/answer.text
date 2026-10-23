@@ -1,0 +1,15 @@
+Assignment 5:
+No, Java does not allow this. Java tells overloaded constructors apart only by their parameter lists: the number, the types, and the order of the parameters. 
+Parameter names don’t count. Here both constructors have the signature DigitalVideoDisc(String), so the compiler can’t tell which one to call for new DigitalVideoDisc("Action"). 
+It reports a “duplicate constructor” error.
+Assignment 9:
+I prefer the varargs version.
+Varargs is easier to use. You can pass the DVDs directly, like addDigitalVideoDisc(dvd1, dvd2, dvd3), without creating an array first. 
+It also works with one DVD, many DVDs, or an existing array, so it is more flexible than the array version.
+Assignment 10:
+1. Why titles stay the same after swap(jungleDVD, cinderellaDVD):
+Java is pass-by-value. The swap method only swaps local copies of the reference variables (o1 and o2) inside its own scope, 
+leaving the original jungleDVD and cinderellaDVD references in main untouched.   
+2. Why jungleDVD's title changes after changeTitle(...):
+The parameter dvd holds a copy of the reference pointing to the same object in memory as jungleDVD. 
+Calling dvd.setTitle() directly mutates the state of that underlying object.

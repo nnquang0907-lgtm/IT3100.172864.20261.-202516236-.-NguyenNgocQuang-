@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TestingPassingParameter",
+      "request": "launch",
+      "mainClass": "Lab04.AimsProject.src.TestingPassingParameter",
+      "projectName": "IT3100.172864.20261.-202516236-.-NguyenNgocQuang-_1d0e197e"
+    },
+    {
+      "type": "java",
+      "name": "Aims",
+      "request": "launch",
+      "mainClass": "Lab04.AimsProject.src.Aims",
+      "projectName": "IT3100.172864.20261.-202516236-.-NguyenNgocQuang-_1d0e197e"
+    },
+    {
+      "type": "java",
       "name": "MaxMinDiscount",
       "request": "launch",
       "mainClass": "Lab02.MaxMinDiscount",
